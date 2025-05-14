@@ -18,3 +18,5 @@ El proyecto sigue una arquitectura cliente-servidor con separación clara entre:
 1. Frontend: Aplicación React que maneja toda la interfaz de usuario
 2. Backend: API RESTful desarrollada con Node.js y Express que gestiona la lógica de negocio y el acceso a datos
 3. Base de datos: MongoDB para almacenamiento de datos
+
+updating readme
