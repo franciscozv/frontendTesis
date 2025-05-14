@@ -1,6 +1,6 @@
 # Backend tesis
 
-## tecnologias a utilizar
+## Tecnologias a utilizar
 
 ### Backend
 1. Node.js: Entorno de ejecución
