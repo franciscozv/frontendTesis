@@ -1,16 +1,15 @@
-# Backend tesis
+# Frontend tesis
 
 ## Tecnologias a utilizar
 
-### Backend
-1. Node.js: Entorno de ejecución
-2. Express: Framework para API RESTful
-3. MongoDB: Base de datos NoSQL
-4. Mongoose: ODM para modelado de datos y validaciones
-5. JWT: Autenticación basada en tokens
-6. Multer: Gestión de carga de archivos e imágenes
-7. Express-validator: Validación de datos en el backend
-8. Dotenv: Gestión de variables de entorno
+## Frontend
+1. React: Biblioteca principal para la interfaz de usuario
+2. React Router: Navegación entre componentes
+3. Chart.js: Visualización de datos y estadísticas
+4. CSS personalizado: Estilos específicos para cada componente
+6. Axios: Cliente HTTP para comunicación con el backend
+10. SweetAlert2: Notificaciones interactivas y diálogos de confirmación
+11. Vite: Herramienta de construcción y servidor de desarrollo
 
 ### Arquitectura del sistema
 
