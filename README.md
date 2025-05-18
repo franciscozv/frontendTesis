@@ -1,12 +1,22 @@
-# React + Vite
+# Frontend tesis
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tecnologias a utilizar
 
-Currently, two official plugins are available:
+## Frontend
+1. React: Biblioteca principal para la interfaz de usuario
+2. React Router: Navegación entre componentes
+3. Chart.js: Visualización de datos y estadísticas
+4. CSS personalizado: Estilos específicos para cada componente
+6. Axios: Cliente HTTP para comunicación con el backend
+10. SweetAlert2: Notificaciones interactivas y diálogos de confirmación
+11. Vite: Herramienta de construcción y servidor de desarrollo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Arquitectura del sistema
 
-## Expanding the ESLint configuration
+El proyecto sigue una arquitectura cliente-servidor con separación clara entre:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Frontend: Aplicación React que maneja toda la interfaz de usuario
+2. Backend: API RESTful desarrollada con Node.js y Express que gestiona la lógica de negocio y el acceso a datos
+3. Base de datos: MongoDB para almacenamiento de datos
+
+updating readme

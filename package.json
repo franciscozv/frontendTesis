@@ -1,6 +1,7 @@
 {
   "name": "frontendtesis",
   "private": true,
+  "homepage": "https://franciscozv.github.io/frontendTesis",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
